@@ -1,0 +1,12 @@
+freia
+matplotlib
+numpy
+scipy
+scikit-image
+scikit-learn
+tensorboard
+tqdm
+statsmodels
+
+
+
